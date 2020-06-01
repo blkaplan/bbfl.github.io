@@ -7,10 +7,11 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs34 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 <!DOCTYPE html>\
+<!DOCTYPE html>\
 <html>\
 <body>\
 <h1>Hello World</h1>\
 <p>I'm hosted with GitHub Pages.</p>\
 </body>\
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMT5kqeFirOWh9e5XuzsaaoNaJIZyDZFYA2tI3qzHdPH3iBhZYsb-Gz-NM4uJQwqBZGd64G8HW0-25/pubhtml?widget=true&amp;headers=false"></iframe>\
 </html>}
